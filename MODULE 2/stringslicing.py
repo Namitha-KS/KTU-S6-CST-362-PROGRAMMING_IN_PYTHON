@@ -1,0 +1,20 @@
+data = "myprogram.exe"
+
+print(data[5:9])
+print(data[:-4])
+
+print(len(data))
+print(data.center(50))
+print(data.count('m'))
+print(data.endswith('e'))
+print(data.endswith('f'))
+print(data.startswith('myp'))
+print(data.find('prog'))
+words = data.split('.')
+print(data.upper())
+print(data.lower())
+print(data.replace('m','p'))
+print(words)
+print(''.join(words))
+print(' '.join(words))
+print(" totally ". join(data.split()))

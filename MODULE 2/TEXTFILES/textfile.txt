@@ -1,0 +1,6 @@
+Unlike an integer, which cannot be decomposed into more primitive parts, a
+string is a data structure. A data structure is a compound unit that consists of
+several other pieces of data.
+A string is a sequence of zero or more characters.
+We can mention a python string using either single quote marks or double
+quote marks. Here are some examples:
