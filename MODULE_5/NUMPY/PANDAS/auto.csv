@@ -1,0 +1,11 @@
+index,company,body-style,wheel-base,length,engine-type,num-of-cylinders,horsepower,average-mileage,price
+1,Chevrolet,Wagon,98.6,190.9,2.5L,4,98,25,8145
+2,Chevrolet,Minivan,97.0,186.6,3.0L,4,161,19,10095
+3,Dodge,Sedan,96.8,190.0,2.3L,4,100,21,7875
+4,Dodge,Sedan,96.8,190.0,2.0L,4,130,23,8845
+5,Plymouth,Minivan,95.2,187.1,2.4L,4,100,18,8845
+6,Ford,Sedan,97.5,190.0,2.0L,4,120,21,7195
+7,Ford,Sedan,97.5,190.0,2.0L,4,100,25,7595
+8,Ford,Wagon,98.8,195.0,2.3L,4,120,20,8575
+9,Mercury,Sedan,97.5,190.0,2.0L,4,120,21,7195
+10,Mercury,Sedan,97.5,190.0,2.0L,4,100,25,7595

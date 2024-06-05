@@ -11,7 +11,7 @@ data1 = np.array(x)
 # plt.bar(x,y)
 # plt.boxplot(data1)
 
-plt.pie(y, labels=x, autopct='%1.1f%%')
+plt.pie(y,labels=x)
 
 
 # plt.xlabel('X-axis')
